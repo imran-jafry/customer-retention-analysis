@@ -1,0 +1,10 @@
+customer_segment,customer_count,pct_of_customers,avg_recency_days,avg_orders,avg_revenue,total_segment_revenue
+High Value New,14370,15.43,94.0,1.0,302.16,4342007.86
+Hibernating,18062,19.4,317.0,1.0,163.67,2956128.55
+Lost,18190,19.54,472.0,1.0,159.55,2902138.3
+Potential Loyalists,10539,11.32,222.0,1.0,220.85,2327569.66
+New Customers,21674,23.28,92.0,1.0,72.92,1580385.34
+Low Value Mid-Recency,7480,8.03,221.0,1.0,54.4,406891.17
+Champions,978,1.05,91.0,2.18,373.55,365332.11
+At Risk - Repeat,990,1.06,383.0,2.08,295.56,292606.27
+Loyal Customers,821,0.88,185.0,2.07,247.04,202816.18
