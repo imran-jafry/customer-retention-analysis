@@ -210,7 +210,7 @@ The frequency scoring issue was the most analytically significant challenge. Sta
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_final.png)
+![Dashboard]()
 
 ---
 
@@ -260,8 +260,7 @@ Together these two projects cover the complete customer lifecycle — from first
 ## Author
 
 **Mohd Imran**
-Final Year BCom (Computer Applications)
-Aspiring Data and Product Analyst
+Data and product analyst
 
-[LinkedIn](add your LinkedIn URL here)
+[LinkedIn] www.linkedin.com/in/mohd-imran-55348a325
 [Project 1 — E-Commerce Funnel Analysis](https://github.com/imran-jafry/ecommerce-checkout-funnel-analysis)
