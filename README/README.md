@@ -210,7 +210,7 @@ The frequency scoring issue was the most analytically significant challenge. Sta
 
 ## Dashboard Preview
 
-![Dashboard] Screenshot 2026-07-06 142554.png
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
