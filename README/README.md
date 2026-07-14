@@ -274,6 +274,16 @@ customer-retention-analysis/
 └── screenshots/
     ├── dashboard_final.png
     └── bigquery_queries.png
+├── notebooks/
+│   └── customer_retention_eda.ipynb
+│
+├── visuals/
+│   ├── chart1_segment_distribution.png
+│   ├── chart2_revenue_by_segment.png
+│   ├── chart3_clv_comparison.png
+│   ├── chart4_cohort_heatmap.png
+│   ├── chart5_time_to_return.png
+│   └── chart6_review_vs_repeat.png
 ```
 
 ---
