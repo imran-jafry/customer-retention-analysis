@@ -153,6 +153,41 @@ Satisfaction score barely predicts repeat purchase — the gap between 5-star an
 
 ---
 
+---
+
+## Python Exploratory Data Analysis
+
+A complete EDA notebook was built using Python to visualize 
+all key findings from the SQL analysis.
+
+**Notebook:** `notebooks/customer_retention_eda.ipynb`
+
+### Charts Built
+
+| Chart | Business Question Answered |
+|---|---|
+| Customer Segment Distribution | Where do 93,104 customers sit? |
+| Revenue by Segment | Which segments drive most revenue? |
+| CLV Comparison | Which customers are worth most per person? |
+| Cohort Retention Heatmap | Do customers return month after month? |
+| Time to Second Purchase | When do repeat buyers come back? |
+| Review Score vs Repeat Rate | Does satisfaction predict loyalty? |
+
+### Key EDA Findings
+
+- 57% of customers are Lost or Hibernating
+- High Value New segment generates 28.24% of revenue 
+  from a single purchase
+- Month 1 cohort retention never exceeds 0.72% across 
+  20 cohorts
+- 50.6% of repeat buyers return within 30 days
+- Satisfaction score gap between 5-star and 1-star 
+  customers is less than 1 percentage point
+
+**Libraries:** Pandas, Matplotlib, Seaborn
+
+---
+
 ## Business Recommendations
 
 **Priority 1 — 30-Day Re-engagement Campaign (High Value New Segment)**
